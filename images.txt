@@ -11,3 +11,6 @@ elasticsearch:7.1.1
 ##platform=linux/arm64 xiaoyaliu/alist
 
 --platform=linux/arm64/v8 nginx
+--platform=linux/arm64/v8 elasticsearch:7.18.28
+--platform=linux/arm64/v8 logstash:7.18.28
+--platform=linux/arm64/v8 kibana:7.18.28
