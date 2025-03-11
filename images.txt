@@ -1,6 +1,6 @@
 alpine
 nginx
-php:8.0.30
+php:8.0.30-fpm-alpine
 mysql
 hello-world
 elasticsearch:7.1.1
