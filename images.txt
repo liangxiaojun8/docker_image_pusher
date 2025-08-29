@@ -4,6 +4,7 @@ nginx:1.26-alpine
 php:8.0.30-fpm-alpine
 php:8.1.32-fpm-alpine
 php:7.3.33-fpm-alpine
+php:7.4.33-fpm-alpine
 mysql
 mysql:5.7.42
 redis:7.2-alpine
