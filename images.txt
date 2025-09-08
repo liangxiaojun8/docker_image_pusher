@@ -6,6 +6,7 @@ php:8.1.32-fpm-alpine
 php:7.3.33-fpm-alpine
 php:7.4.33-fpm-alpine
 mysql
+mysql:8.0.34
 mysql:5.7.42
 redis:7.2-alpine
 hello-world
