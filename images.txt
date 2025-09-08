@@ -21,6 +21,7 @@ elasticsearch:7.1.1
 --platform=linux/arm64/v8 elasticsearch:7.17.28
 --platform=linux/arm64/v8 logstash:7.17.28
 --platform=linux/arm64/v8 kibana:7.17.28
+--platform=linux/arm64/v8 php:8.3.25-fpm
 --platform=linux/arm64/v8 php:8.3.25-fpm-alpine
 --platform=linux/arm64/v8 php:8.1.32-fpm-alpine
 --platform=linux/arm64/v8 php:7.3.33-fpm-alpine
